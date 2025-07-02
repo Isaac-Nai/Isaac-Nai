@@ -14,7 +14,7 @@
 ---
 
 ## 📌 Projects I'm Working On
-- 📝 **Portfolio Site** – Built with HTML/CSS and VS Code, hosted on GitHub Pages  
+- 📝 **Full Stack Web Application** – Birmingham CS Hub built with HTML/CSS,VS Code, hosted on GitHub Pages. Also plan on using a python backend with API links for flashcard content.  
 - 📊 **Data Visualiser** – Using `pandas` + `matplotlib` to track personal habits  
 
 ---
